@@ -1,2 +1,0 @@
-# projj
-readme.md
